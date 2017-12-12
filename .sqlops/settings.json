@@ -1,0 +1,24 @@
+{
+    "dashboard.database.widgets": [
+        {
+            "name": "Search",
+            "gridItemConfig": {
+                "sizex": 2,
+                "sizey": 2
+            },
+            "widget": {
+                "explorer-widget": {}
+            }
+        },
+        {
+            "name": "Tasks",
+            "gridItemConfig": {
+                "sizex": 1,
+                "sizey": 1
+            },
+            "widget": {
+                "tasks-widget": {}
+            }
+        }
+    ]
+}
